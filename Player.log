@@ -1,0 +1,1825 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.2.17f1 (8e603399ca02)
+[XR] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c91)
+    Vendor:   
+    VRAM:     2996 MB
+    Driver:   27.21.14.6627
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.142 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.500400 ms
+RimWorld 1.2.2900 rev837
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDABFA010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDA82CC90.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDAACFC30.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDAB12020.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDAA1E0F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDAA22F00.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDACF5030.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDAB00650.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDAD16850.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDAD60DB0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDAD7D9D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDAE5A3F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDAE65020.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDAE84A40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDAB0D280.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDAEA3060.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDAEA5270.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDAEBC090.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDAEC66B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC630080.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC643890.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC65B8A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC65CEB0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC66F4D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC6792E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC716010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC719A30.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC758FB0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC7683E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC76C000.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC76F610.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC886CB0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC93BEE0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC93FEF0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC952F10.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC95C320.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC967540.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC96F3D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC98A7F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC9AF230.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC9B5650.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDC9F2470.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCABB890.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCAC18A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCAD3AC0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCAD62E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCB97F20.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCC58010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCC5BC40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCC78660.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCD3E8A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCE0EDA0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCE359D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCC1E7C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCE387E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BD39896E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BD39BC020.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BD39D2640.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BD39D6C50.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BD39D9C60.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCF724A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCF73EB0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCC247F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCF7AAC0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCF810F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCF85B00.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDA8308C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCFC2E20.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCC34870.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD0A1110.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD022200.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD04AA20.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD06B680.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD10B780.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD0720A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD0738B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD112590.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD156DC0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD1757E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD177DF0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD17BE70.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD185280.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD1AF490.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD1BA6A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD1BD0C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD280EE0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD28D700.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD2A6720.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD2C6B40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDCC3A8A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD2F2B80.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD3109A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD416000.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD41C820.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD432030.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD45CB60.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDA9CB8A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD464580.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD554FD0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD595000.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD59A210.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD5A1A30.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD5AAA40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD5AF050.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD5BFAB0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD0C3750.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD5C3550.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD0C6560.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDA9D30D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD0CC370.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD0E7DA0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD0F25C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD0F77E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD0FAFF0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD0FE600.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE32376E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3245CF0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE324BF00.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE324EB10.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE330F020.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE335F640.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3411670.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE34C9B90.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE34CD7A0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDA9D80F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE34F9FD0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDD5FC270.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE35115E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE352C620.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3603A40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3634E40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE363EF30.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3649F40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE364C150.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE364FD60.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3659770.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE365FB90.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3664BA0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3666DB0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE36689C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3497360.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE37E1E10.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE38CA840.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE39C9270.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE39D8690.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE39FA4B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3A0AAC0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3B36010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3B3BE20.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3B5CC40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3B60250.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3B6B270.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3B75E90.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3B85EA0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3B8C6C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3B980F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3BA0300.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3BA6710.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3BC9F30.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3C83D60.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3C87B70.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3CA73B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3CAB9C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3CAD5D0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3D731F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3D77E00.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3E41A40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3E76C60.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3E9D280.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3F584B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3FC30E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3FE0080.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3FD3500.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE4007E90.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE400DCA0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE40CC2C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE41038F0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE4107900.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDA831CD0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE4110120.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE41C5940.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE41C8950.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE41CA160.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE3FDDB40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE4291190.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE42CD440.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE4475C40.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE4562460.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE4578080.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE457EE90.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE4582AA0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE45894C0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE45936E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE464C300.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE465B530.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE4660140.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE4661F50.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE471BF70.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE471D580.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE473C7B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE475B5E0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE476EDF0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE4770400.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE478BE30.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE47B1050.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE486E690.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE4884010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE488C420.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE488D630.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE489C510.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE48A0F20.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE48AE940.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE49D7760.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE49EFF80.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE4A15DA0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE4A1A9B0.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE4C33860.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE4C4F680.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDB508040.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE4CB7010.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE4CD4830.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE4CD9840.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE4CFB250.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BDAACE410.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE5193230.dll
+[5/22/2021 6:39:09 PM] [BetterLoading] Verifying all mods loaded properly...
+[BetterLoading] Injecting into main UI.
+[BetterLoading] Injected into main UI.
+[HugsLib] version 8.0.1
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000020BE582E190.dll
+[HugsLib] early-initializing AllowTool
+RimSaves 2020 R1
+[VanillaAchievementsExpanded] Removing duplicate Def Types.
+[MadSkills]: settings initialized, multiplier is 0, not tiered, daily XP threshold is 10000, saturated XP multiplier is 0.2, Great Memory trait is altered.
+[MadSkills]: settings initialized, multiplier is 0, not tiered, daily XP threshold is 10000, saturated XP multiplier is 0.2, Great Memory trait is altered.
+[MadSkills]: settings initialized, multiplier is 0, not tiered, daily XP threshold is 10000, saturated XP multiplier is 0.2, Great Memory trait is altered.
+QualityBuilder successfully patched Replace Stuff
+Applied patches for legodude17.smartdecon
+Loaded What's That Mod.
+Growing Zone Priorities loaded
+:: Outpost 21 Toolbox - Version 1.3.2 Initialised ::
+DubsMintMenus v1.3.823
+Running incremental garbage collection with time slice of 3000000 nanoseconds
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Dubs Skylight 1.5.1471
+[Interaction Bubbles v1.7] Initialized
+DependencyChecker!
+Patched jump instruction at 157 to go to our postfix block instead!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+No Messy Spawns 1.0.0.0 - Harmony patches successful
+Project RimFactory Core 1.0.0.0 - Harmony patches successful
+Project Rimfactory - added Support for shared Nutrient Dispenser with [KV] RimFridge
+Rimatomics 1.7.2411
+[WhatsMissing] Patched Dialog_BillConfig
+[ATPP] Psychology found
+[ATPP] Search and Destroy found
+[ATPP] Questionable Ethics Enhanced found
+Initialized OmniCoreDrill patches
+[BetterLoading] Finished stage Initializing Mods at 6:39:18 PM.
+[BetterLoading] HugsLib detected, adding HugsLib support.
+[BetterLoading:HugsLib Compat] Resolved required HugsLib types as follows: Controller: HugsLib.HugsLibController / Update Manager: HugsLib.News.UpdateFeatureManager / Mod Identifier (Property): ModIdentifier
+[BetterLoading:HugsLib Compat] Successfully blind-patched HugsLib.
+[BetterLoading] Starting stage Reading Mod Content Files.
+[BetterLoading] Finished stage Reading Mod Content Files at 6:39:27 PM.
+[BetterLoading] Starting stage Injecting Mod XML.
+[BetterLoading] [Enhanced XML Load] Loaded 2422 loadable assets.
+[BetterLoading] Finished stage Injecting Mod XML at 6:39:28 PM.
+[BetterLoading] Starting stage Applying Patches.
+LWM Deep Storage: activated compatibility patch for Vanilla Cooking Expanded
+[BetterLoading] Finished stage Applying Patches at 6:39:35 PM.
+[BetterLoading] Starting stage Registering Defs.
+[BetterLoading] Finished stage Registering Defs at 6:39:35 PM.
+[BetterLoading] Starting stage Constructing Defs.
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_BattleThrill</li></forbiddenTraits><decreaseChanceTraits><li>GBKT_Energetic</li><li>GBKT_Energetic</li></decreaseChanceTraits><increaseChanceTraits><li>GBKT_Meditative</li><li>GBKT_Meditative</li><li>GBKT_Meditative</li></increaseChanceTraits></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_BattleThrill</li></forbiddenTraits><decreaseChanceTraits><li>GBKT_Energetic</li><li>GBKT_Energetic</li></decreaseChanceTraits><increaseChanceTraits><li>GBKT_Meditative</li><li>GBKT_Meditative</li><li>GBKT_Meditative</li></increaseChanceTraits></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Meditative</li><li>GBKT_Meditative</li><li>GBKT_Meditative</li></increaseChanceTraits></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Meditative</li><li>GBKT_Meditative</li><li>GBKT_Meditative</li></increaseChanceTraits></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_Aquaphile</li><li>GBKT_Energetic</li><li>GBKT_SunBather</li><li>GBKT_SnowBunny</li><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_SkyGazer</li><li>GBKT_SkyGazer</li><li>GBKT_SkyGazer</li></increaseChanceTraits></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_Aquaphile</li><li>GBKT_Energetic</li><li>GBKT_SunBather</li><li>GBKT_SnowBunny</li><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_SkyGazer</li><li>GBKT_SkyGazer</li><li>GBKT_SkyGazer</li></increaseChanceTraits></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_Aquaphile</li><li>GBKT_CouchPotato</li><li>GBKT_SunBather</li><li>GBKT_SnowBunny</li><li>GBKT_BattleThrill</li><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Energetic</li><li>GBKT_Energetic</li><li>GBKT_Energetic</li><li>GBKT_Meditative</li><li>GBKT_Meditative</li><li>GBKT_Meditative</li></increaseChanceTraits></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_Aquaphile</li><li>GBKT_CouchPotato</li><li>GBKT_SunBather</li><li>GBKT_SnowBunny</li><li>GBKT_BattleThrill</li><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Energetic</li><li>GBKT_Energetic</li><li>GBKT_Energetic</li><li>GBKT_Meditative</li><li>GBKT_Meditative</li><li>GBKT_Meditative</li></increaseChanceTraits></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Meditative</li><li>GBKT_Meditative</li><li>GBKT_Meditative</li></increaseChanceTraits><decreaseChanceTraits><li>GBKT_Energetic</li><li>GBKT_Energetic</li></decreaseChanceTraits></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Meditative</li><li>GBKT_Meditative</li><li>GBKT_Meditative</li></increaseChanceTraits><decreaseChanceTraits><li>GBKT_Energetic</li><li>GBKT_Energetic</li></decreaseChanceTraits></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_Energetic</li><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Meditative</li><li>GBKT_Meditative</li><li>GBKT_Meditative</li><li>GBKT_CouchPotato</li><li>GBKT_CouchPotato</li><li>GBKT_CouchPotato</li></increaseChanceTraits></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_Energetic</li><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Meditative</li><li>GBKT_Meditative</li><li>GBKT_Meditative</li><li>GBKT_CouchPotato</li><li>GBKT_CouchPotato</li><li>GBKT_CouchPotato</li></increaseChanceTraits></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_Aquaphile</li><li>GBKT_CouchPotato</li><li>GBKT_SunBather</li><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Energetic</li><li>GBKT_Energetic</li><li>GBKT_Energetic</li><li>GBKT_SnowBunny</li><li>GBKT_SnowBunny</li><li>GBKT_SnowBunny</li><li>GBKT_SnowBunny</li></increaseChanceTraits></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_Aquaphile</li><li>GBKT_CouchPotato</li><li>GBKT_SunBather</li><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Energetic</li><li>GBKT_Energetic</li><li>GBKT_Energetic</li><li>GBKT_SnowBunny</li><li>GBKT_SnowBunny</li><li>GBKT_SnowBunny</li><li>GBKT_SnowBunny</li></increaseChanceTraits></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><increaseChanceTraits><li>GBKT_Socialite</li></increaseChanceTraits><decreaseChanceTraits><li>GBKT_CareGiver</li><li>GBKT_CareGiver</li><li>GBKT_CareGiver</li><li>GBKT_Meditative</li><li>GBKT_Meditative</li></decreaseChanceTraits></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><increaseChanceTraits><li>GBKT_Socialite</li></increaseChanceTraits><decreaseChanceTraits><li>GBKT_CareGiver</li><li>GBKT_CareGiver</li><li>GBKT_CareGiver</li><li>GBKT_Meditative</li><li>GBKT_Meditative</li></decreaseChanceTraits></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_CareGiver</li><li>GBKT_Socialite</li></increaseChanceTraits><decreaseChanceTraits><li>GBKT_Meditative</li></decreaseChanceTraits></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_CareGiver</li><li>GBKT_Socialite</li></increaseChanceTraits><decreaseChanceTraits><li>GBKT_Meditative</li></decreaseChanceTraits></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_CouchPotato</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Gamer</li></increaseChanceTraits></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_CouchPotato</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Gamer</li></increaseChanceTraits></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_CouchPotato</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Gamer</li><li>GBKT_Gamer</li></increaseChanceTraits></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_CouchPotato</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Gamer</li><li>GBKT_Gamer</li></increaseChanceTraits></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_CouchPotato</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Gamer</li></increaseChanceTraits></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_CouchPotato</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Gamer</li></increaseChanceTraits></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_Energetic</li><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Gamer</li><li>GBKT_Gamer</li></increaseChanceTraits></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_Energetic</li><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Gamer</li><li>GBKT_Gamer</li></increaseChanceTraits></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_Energetic</li><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Gamer</li><li>GBKT_Gamer</li></increaseChanceTraits></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_Energetic</li><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Gamer</li><li>GBKT_Gamer</li></increaseChanceTraits></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_Energetic</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Gamer</li></increaseChanceTraits></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_Energetic</li></forbiddenTraits><increaseChanceTraits><li>GBKT_Gamer</li></increaseChanceTraits></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_Energetic</li><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_CouchPotato</li><li>GBKT_Explorer</li></increaseChanceTraits></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_Energetic</li><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_CouchPotato</li><li>GBKT_Explorer</li></increaseChanceTraits></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_Energetic</li><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_SkyGazer</li><li>GBKT_Explorer</li></increaseChanceTraits></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><forbiddenTraits><li>GBKT_Energetic</li><li>GBKT_BattleThrill</li></forbiddenTraits><increaseChanceTraits><li>GBKT_SkyGazer</li><li>GBKT_Explorer</li></increaseChanceTraits></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><increaseChanceTraits><li>GBKT_Foodie</li><li>GBKT_Foodie</li><li>GBKT_Foodie</li><li>GBKT_Foodie</li><li>GBKT_Foodie</li></increaseChanceTraits></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><increaseChanceTraits><li>GBKT_Foodie</li><li>GBKT_Foodie</li><li>GBKT_Foodie</li><li>GBKT_Foodie</li><li>GBKT_Foodie</li></increaseChanceTraits></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 0.75 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><requiredTraitsOne><li>GBKT_SunBather</li></requiredTraitsOne></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><requiredTraitsOne><li>GBKT_SunBather</li></requiredTraitsOne></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><requiredTraitsOne><li>GBKT_DirtLover</li></requiredTraitsOne></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><requiredTraitsOne><li>GBKT_DirtLover</li></requiredTraitsOne></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><requiredTraitsOne><li>GBKT_DirtLover</li></requiredTraitsOne></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><requiredTraitsOne><li>GBKT_DirtLover</li></requiredTraitsOne></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><requiredTraitsOne><li>GBKT_Aquaphile</li></requiredTraitsOne></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><requiredTraitsOne><li>GBKT_Aquaphile</li></requiredTraitsOne></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><requiredTraitsOne><li>GBKT_Aquaphile</li></requiredTraitsOne></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><requiredTraitsOne><li>GBKT_Aquaphile</li></requiredTraitsOne></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><requiredTraitsOne><li>GBKT_SnowBunny</li></requiredTraitsOne></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><requiredTraitsOne><li>GBKT_SnowBunny</li></requiredTraitsOne></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><requiredTraitsOne><li>GBKT_Energetic</li></requiredTraitsOne></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><requiredTraitsOne><li>GBKT_Energetic</li></requiredTraitsOne></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not find type named EBTools.RequiredTraitFramework.RequiredTrait_ModExtension from node <li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><requiredTraitsOne><li>GBKT_Explorer</li></requiredTraitsOne></li>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception loading list element from XML: System.MissingMethodException: Default constructor not found for type Verse.DefModExtension
+  at System.RuntimeType.CreateInstanceMono (System.Boolean nonPublic) [0x0007b] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceSlow (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00009] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.RuntimeType.CreateInstanceDefaultCtor (System.Boolean publicOnly, System.Boolean skipCheckThis, System.Boolean fillCache, System.Threading.StackCrawlMark& stackMark) [0x00027] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type, System.Boolean nonPublic) [0x00020] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Activator.CreateInstance (System.Type type) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.DirectXmlToObject.ObjectFromXml[T] (System.Xml.XmlNode xmlRoot, System.Boolean doPostLoad) [0x0051d] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at Verse.DirectXmlToObject.ListFromXml[T] (System.Xml.XmlNode listRootNode) [0x000ab] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+XML:
+<modExtensions><li Class="EBTools.RequiredTraitFramework.RequiredTrait_ModExtension"><requiredTraitsOne><li>GBKT_Explorer</li></requiredTraitsOne></li></modExtensions>
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 1.42 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 1.42 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 1.42 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 1.42 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 1.42 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 1.42 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 1.42 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 1.42 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 1.42 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 1.42 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 1.42 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 8.52 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 8.52 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 8.52 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 8.52 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 8.52 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 8.52 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 8.52 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 8.52 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 8.52 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 8.52 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 8.52 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 8.52 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 8.52 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 8.52 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 8.52 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 8.52 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 8.52 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 8.52 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 8.52 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 8.52 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 4.26 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 4.26 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 4.26 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 4.26 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 4.26 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 3.2 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 3.2 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 3.2 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 3.2 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 3.8 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 4.26 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 6.5 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 7.5 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 4.5 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Parsed 5.5 as int.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[BetterLoading] Finished stage Constructing Defs at 6:39:49 PM.
+[BetterLoading] Starting stage Reloading Def Databases.
+SimplyMoreBridges: Found 7 materials to generate bridge-definitions for.
+SimplyMoreBridges: Generated the following stony bridges: DeepWaterBridgeSandstone,HeavyBridgeSandstone,DeepWaterBridgeGranite,HeavyBridgeGranite,DeepWaterBridgeLimestone,HeavyBridgeLimestone,DeepWaterBridgeSlate,HeavyBridgeSlate,DeepWaterBridgeMarble,HeavyBridgeMarble
+SimplyMoreBridges: Generated the following metal bridges: DeepWaterBridgeSteel,HeavyBridgeSteel,DeepWaterBridgePlasteel,HeavyBridgePlasteel
+Could not resolve cross-reference: No Verse.ThingDef named Meat_Rat found to give to AchievementsExpanded.ItemCraftTrackerWithIngredients AchievementsExpanded.ItemCraftTrackerWithIngredients
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve cross-reference: No Verse.ThingDef named Meat_Pig found to give to AchievementsExpanded.ItemCraftTrackerWithIngredients AchievementsExpanded.ItemCraftTrackerWithIngredients
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[MadSkills]: changed behavior of Great Memory trait.
+[BetterLoading] Finished stage Reloading Def Databases at 6:40:07 PM.
+[BetterLoading] Tips should now be available. Showing...
+[BetterLoading] Starting stage Running Post Content Load Callbacks.
+Key binding conflict: Dev_ChangeSelectedDebugAction and MainTab_Architect are both bound to Tab.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[BetterLoading] Processing 16343 post-load tasks.
+[MVCF] Applying RunAndGun compatibility patch
+[MVCF] Applying Dual Wield compatibility patch
+Initialized settings for Smarter Deconstruction
+Translation data for language English has 7 errors. Generate translation report for more info.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AllowTool] Applied compatibility patch for "Pick Up And Haul"
+ResearchPal :: 	precision turrets has a lower techlevel than (one of) its prerequisites
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ResearchPal :: 	blast turrets has a lower techlevel than (one of) its prerequisites
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ResearchPal :: 	vulcan cannon has a lower techlevel than (one of) its prerequisites
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ResearchPal :: 	S.A.L autonomous cooking has a lower techlevel than (one of) its prerequisites
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ResearchPal :: Research Military Clothing does not belong to any mod?
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ResearchPal :: Research layout initialized
+  --> [What's That Mod] Took 0.35 seconds to scan all patches. <--
+What's That Mod: Wrote to 8328 mod descriptions, 121 patched defs resolved.
+What's That Mod took 446 milliseconds to generate all def descriptions.
+[BetterLoading] Obtained synclock, assuming post-load actions are complete and starting static constructors.
+[BetterLoading] Starting Antifreeze(tm) StaticConstructorCaller. Synchronizing retransmission chronicity...
+[BetterLoading] Finished stage Running Post Content Load Callbacks at 6:40:58 PM.
+[BetterLoading] Starting stage Finalizing Mods.
+[OgreStack]: Modify Stack Sizes Complete
+[me.samboycoding.blm] Patches on methods annotated as Obsolete were detected by HugsLib: HugsLib.News.UpdateFeatureManager.InspectActiveMod
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Patched jump instruction at 157 to go to our postfix block instead!
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Patching Madeline.ModMismatchWindow
+Medical Tab :: Capacity MagicManipulation does not have any bodyPartTags associated with it. This may be intentional. For modders; if the tag defName contains the capacity defName the two will be linked.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Medical Tab :: Tag CPSource is not associated with any pawnCapacity. This may be intentional. For modders; if the tag defName contains the capacity defName the two will be linked.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Medical Tab :: Tag HVSource is not associated with any pawnCapacity. This may be intentional. For modders; if the tag defName contains the capacity defName the two will be linked.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Medical Tab :: Tag EVKidney is not associated with any pawnCapacity. This may be intentional. For modders; if the tag defName contains the capacity defName the two will be linked.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Medical Tab :: Tag EVLiver is not associated with any pawnCapacity. This may be intentional. For modders; if the tag defName contains the capacity defName the two will be linked.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Medical Tab :: Tag HVPathway is not associated with any pawnCapacity. This may be intentional. For modders; if the tag defName contains the capacity defName the two will be linked.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PickUpAndHaul v0.1.1.0⅓ welcomes you to RimWorld with pointless logspam.
+[RealRuins][System]: RealRuins started patching at 5/22/2021 6:41:07 PM
+[RealRuins][System]: RealRuins finished patching at 5/22/2021 6:41:07 PM (30.8701 msec)
+[RimHUD v1.7.0] Initialized
+[ShowDrafteesWeapon] Initialized
+Loaded body addon variants for Alien_Thrumboian
+Loading variants for Pawns/ThrumboStuff/Horn/ThrumboianHorn
+Variants found for Pawns/ThrumboStuff/Horn/ThrumboianHorn: 1
+Variants found for Pawns/ThrumboStuff/SteelHorn/ThrumboianSteel: 1
+
+Loaded body addon variants for StarWarsRaces_Ewok
+Loading variants for StarWarsRaces/Ewok/Ear/LeftEar
+Variants found for StarWarsRaces/Ewok/Ear/LeftEar: 1
+Loading variants for StarWarsRaces/Ewok/Ear/RightEar
+Variants found for StarWarsRaces/Ewok/Ear/RightEar: 1
+
+Loaded body addon variants for StarWarsRaces_Rodian
+Loading variants for StarWarsRaces/Rodian/Antenna/Left_Antenna
+Variants found for StarWarsRaces/Rodian/Antenna/Left_Antenna: 1
+Loading variants for StarWarsRaces/Rodian/Antenna/Right_Antenna
+Variants found for StarWarsRaces/Rodian/Antenna/Right_Antenna: 1
+Loading variants for StarWarsRaces/Rodian/Head/Ear
+Variants found for StarWarsRaces/Rodian/Head/Ear: 1
+
+Loaded body addon variants for StarWarsRaces_Togruta
+Loading variants for StarWarsRaces/Togruta/Montral/Montral
+Variants found for StarWarsRaces/Togruta/Montral/Montral: 2
+Loading variants for StarWarsRaces/Togruta/Lekku/Left/FrontOfHead/Lekku_Left_Front
+Variants found for StarWarsRaces/Togruta/Lekku/Left/FrontOfHead/Lekku_Left_Front: 2
+Loading variants for StarWarsRaces/Togruta/Lekku/Left/RearOfHead/Lekku_Left_Rear
+Variants found for StarWarsRaces/Togruta/Lekku/Left/RearOfHead/Lekku_Left_Rear: 2
+Loading variants for StarWarsRaces/Togruta/Lekku/Right/FrontOfHead/Lekku_Right_Front
+Variants found for StarWarsRaces/Togruta/Lekku/Right/FrontOfHead/Lekku_Right_Front: 2
+Loading variants for StarWarsRaces/Togruta/Lekku/Right/RearOfHead/Lekku_Right_Rear
+Variants found for StarWarsRaces/Togruta/Lekku/Right/RearOfHead/Lekku_Right_Rear: 2
+Loading variants for StarWarsRaces/Togruta/Lekku/Rear/Lekku_Rear
+Variants found for StarWarsRaces/Togruta/Lekku/Rear/Lekku_Rear: 2
+
+Loaded body addon variants for StarWarsRaces_Twilek
+Loading variants for StarWarsRaces/Twilek/LeftLekku/Lekku_Front_Left
+Variants found for StarWarsRaces/Twilek/LeftLekku/Lekku_Front_Left: 4
+Loading variants for StarWarsRaces/Twilek/LeftLekku/Lekku_Rear_Left
+Variants found for StarWarsRaces/Twilek/LeftLekku/Lekku_Rear_Left: 4
+Loading variants for StarWarsRaces/Twilek/RightLekku/Lekku_Front_Right
+Variants found for StarWarsRaces/Twilek/RightLekku/Lekku_Front_Right: 4
+Loading variants for StarWarsRaces/Twilek/RightLekku/Lekku_Rear_Right
+Variants found for StarWarsRaces/Twilek/RightLekku/Lekku_Rear_Right: 4
+
+Alien race successfully completed 137 patches with harmony.
+AdjustableTradeShips Harmony Patches:
+  Prefix:
+    Game.InitNewGame
+  Postfix:
+    Storyteller.Notify_DefChanged
+Androids: Fixing surgery recipes for Droids.
+Androids: Fixing belts whitelist for AlienRace.ThingDef_AlienRace with defName='ChjBattleDroid'.
+ArmorRacks loaded in 00:00:00.0004372
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[ColorCodedMoodBar] ColorCodedMoodBar initialized for RimWorld v1.1
+ProstheticNoMissingBodyParts Harmony Patches:
+  Prefix:
+    ApparelUtility.HasPartsToWear
+Initializing RPG_Style_Level_Up_Mod_patches...
+[Food Restrictions v1.2] Initialized
+Patching
+[BetterLoading] Finished stage Finalizing Mods at 6:41:25 PM.
+[BetterLoading] Starting stage Running Post-Finalize Callbacks.
+[BetterLoading] Finished calling static constructors at 6:41:25 PM. AND I didn't make the game freeze. Take that, Tynan.
+Started post-finalize at 637572984862926741
+[BetterLoading] Processing 3 post-finalize tasks.
+OnLevelWasLoaded was found on ModInitializerComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Mono/MonoScriptCache.cpp Line: 355)
+
+[BetterLoading] Finished stage Running Post-Finalize Callbacks at 6:41:26 PM.
+[BetterLoading] Starting stage Initializing HugsLib.
+[WhatsMissing] Patched Dialog_BillConfig
+[HugsLib] initializing BetterPawnControl, ImprovedWorkbenches, EndlessRimworld, LWM_DeepStorage, RealRuins, SearchAndDestroy, Linkolas.Stabilize, StackableChunks, NoJobAuthors, AlmostThere, CleaningStation, GiddyUpCore, BattleMounts, GiddyUpCaravan, Psychology, RunAndGun, PeteTimesSix.SimpleSidearms, Roolo.DualWield, YayoCombat3, ItemListSelector, ARimWorldOfMagic
+[BetterLoading:HugsLib Compat] HugsLib has enumerated child mods, it has found 22 of them.
+[ImprovedWorkbenches] Adding support for ProjectRimFactory
+[StackableChunks] Chunk Stacks set too: 15
+[StackableChunks] Slag Stacks set too: 15
+[BetterLoading:HugsLib Compat] HugsLib has Loaded, Reloaded, and Initialized. Marking as done.
+[BetterLoading] Finished processing load list, hiding.
+[BetterLoading] Game load has finished. Timing data follows:
+Spent 26180.3551ms reading, building, and patching XML tree.
+Spent 13959.6349ms turning XML into def instances.
+Spent 68906.2023ms resolving cross-references and running post-load, pre-finalize callbacks.
+Spent 27550.1565ms running static constructors (initializing mods).
+Spent -63757298486292.7ms running post-finalize callbacks.
+In total, spent 141381.498ms launching the game.
+[BetterLoading] Obtained lock, assuming we're done with post-finalize.
+Finished post-finalize at 637572984929169903
+[ATPP] BlacklistigOtherAR  : Corpse_Human
+[ATPP] BlacklistigOtherAR  : Corpse_ChjAndroid
+[ATPP] BlacklistigOtherAR  : Corpse_ChjDroid
+[ATPP] BlacklistigOtherAR  : Corpse_ChjBattleDroid
+[ATPP] BlacklistigOtherAR  : Corpse_Alien_Crystal
+[ATPP] BlacklistigOtherAR  : Corpse_Dragonian_Female
+[ATPP] BlacklistigOtherAR  : Corpse_Dragonian_Male
+[ATPP] BlacklistigOtherAR  : Corpse_Alien_Thrumboian
+[ATPP] BlacklistigOtherAR  : Corpse_StarWarsRaces_Ewok
+[ATPP] BlacklistigOtherAR  : Corpse_StarWarsRaces_Rodian
+[ATPP] BlacklistigOtherAR  : Corpse_StarWarsRaces_Togruta
+[ATPP] BlacklistigOtherAR  : Corpse_StarWarsRaces_Twilek
+[ATPP] BlacklistigOtherAR  : Corpse_StarWarsRaces_Wookiee
+[ATPP] 10 Care job collected for crafting injection
+[ATPP] 4 MentalBreaks collected
+Unloading 5 Unused Serialized files (Serialized files now loaded: 1)
+UnloadTime: 0.283300 ms
+QualityBuilder added property to '308' things
+
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 26195.
+Total: 592.430800 ms (FindLiveObjects: 1.722000 ms CreateObjectMapping: 2.058400 ms MarkObjects: 588.541700 ms  DeleteObjects: 0.108400 ms)
+
+Loading game from file default#§#Esnebininum with mods:
+  - brrainz.harmony
+  - me.samboycoding.betterloading
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - UnlimitedHugs.HugsLib
+  - fluffy.modmanager
+  - aRandomKiwi.RimSaves
+  - UnlimitedHugs.AllowTool
+  - brrainz.achtung
+  - VinaLx.ResearchPalForked
+  - com.bymarcin.ArchitectIcons
+  - Haecriver.OutfitCopy
+  - Madeline.ModMismatchFormatter
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - vanillaexpanded.achievements
+  - VanillaExpanded.VWE
+  - VanillaExpanded.VWEQ
+  - VanillaExpanded.VWEL
+  - VouLT.BetterPawnControl
+  - falconne.BWM
+  - Uuugggg.BuildFromInventory
+  - fluffy.blueprints
+  - neceros.bulksmelting
+  - fuglypump.bulkstonecutting
+  - hatti.cleaningarea
+  - fluffy.colonymanager
+  - avilmask.CommonSense
+  - FrozenSnowFox.ComplexJobsLegacy
+  - consolidatedtraits.kv.rw
+  - Alias.DegeneralizeWork
+  - tikubonn.DontBlockDoor
+  - dracoix.doormat.r12a
+  - bob.draggableCornerss
+  - EdB.PrepareCarefully
+  - jaschaephraim.endlessrimworld
+  - Uuugggg.EverybodyGetsOne
+  - VanillaExpanded.VCEF
+  - ReGrowth.BOTR.Core
+  - FrozenSnowFox.FilthVanishesWithRainAndTime
+  - kittahkhan.grazeup
+  - Mlie.IClearlyHaveEnough
+  - Haecriver.InjuredCarry
+  - jecrell.jecstools
+  - brrainz.justignoremepassing
+  - rimfridge.kv.rw
+  - LWM.DeepStorage
+  - ratys.madskills
+  - leafzxg.MasterOfCooking
+  - pyrce.mass.graves
+  - fluffy.medicaltab
+  - neceros.metaldontburn
+  - Mlie.MoreFactionInteraction
+  - PinoChemicali.MoreTradeShips
+  - Ogre.OgreStack
+  - Wemd.PartiallyPassableWindTurbines
+  - jp.perfectpathing
+  - Mlie.PickUpAndHaul
+  - LongerCFloor.ProxyHeat
+  - legodude17.qualcolor
+  - hatti.qualitybuilder
+  - hatti.qualitysurgeon
+  - Mlie.RaidersNeverDie
+  - Woolstrand.RealRuins
+  - automatic.recipeicons
+  - Uuugggg.ReplaceStuff
+  - Jaxe.RimHUD
+  - Mlie.RimQuest
+  - roolo.SearchAndDestroy
+  - Uuugggg.ShareTheLoad
+  - targhetti.ShowDrafteesWeapon
+  - lanilor.simplerecycling
+  - gguake.ui.simplesearchbar
+  - PinoChemicali.SkilledStonecutting
+  - dhultgren.smarterconstruction
+  - legodude17.smartdecon
+  - Linkolas.Stabilize
+  - zhrocks11.stackablechunks
+  - balistafreak.StopDropAndRoll
+  - Jaxe.ToggleHarvest
+  - CarnySenpai.TraitRarityColors
+  - Mlie.VariousSpaceShipChunk
+  - Murmur.WallLight
+  - co.uk.epicguru.whatsthatmod
+  - tammybee.whereismyweapon
+  - pyrce.terrain.zone.select
+  - Mlie.GrowingZonePriorities
+  - Doug.NoJobAuthors
+  - Ogliss.TheWhiteCrayon.Quarry
+  - Devdisigdu.Bulk.Components
+  - PinoChemicali.CheaperComponents
+  - Mlie.SimplyMoreBridges
+  - CaptainMuscles.NoPawnLeftBehind
+  - Flyingstar.AutoMortarsUnofficial
+  - erdelf.HumanoidAlienRaces
+  - neronix17.toolbox
+  - adjustabletradeships.kv.rw
+  - sulusdacor.james76543.Meltup.AdvancedPowerPlus
+  - roolo.AlmostThere
+  - sarg.alphaanimals
+  - sarg.alphabiomes
+  - VanillaExpanded.VFESecurity
+  - FrozenSnowFox.AlwaysRearmTurrets
+  - ChJees.Androids
+  - JGH.ArchotechBrain
+  - fluffy.areaunlocker
+  - khamenman.armorracks
+  - razor2.3.AnotherRimworldMod.AutoCutBlight
+  - automatic.bionicicons
+  - Solaris.BioReactor
+  - CaptainMuscles.ChillOut
+  - navyseal5.CleaningStation
+  - PorqueNoLosDos.ColorCodedMoodBar
+  - 8Z.DormitoriesNotBarracks
+  - aRandomKiwi.DownForMe
+  - Ryflamer.Misc.Drawabead
+  - CaptainMuscles.DropInventory
+  - Dubwise.DubsMintMenus
+  - Dubwise.DubsPerformanceAnalyzer
+  - Dubwise.DubsSkylights
+  - zylle.Gemstones
+  - CaptainMuscles.GoToSleep
+  - fridgeBaron.Immortals
+  - nitrodev.inspiration
+  - Jaxe.Bubbles
+  - Mlie.InventoryTab
+  - Krafs.LevelUp
+  - LWM.FuelFilter
+  - Ykara.EPOE
+  - Abraxas.MSERevived
+  - roolo.giddyupcore
+  - roolo.giddyupbattlemounts
+  - roolo.giddyupcaravan
+  - Spino.Megafauna
+  - notfood.MendAndRecycle
+  - Haplo.Miscellaneous.Training
+  - wofl.MoreFurnitureUpdated
+  - 4loris4.MoreLinkables
+  - moretraitslots.kv.rw
+  - paradox.morevanillaturrets
+  - VanillaExpanded.VFECore
+  - VanillaExpanded.VFEFarming
+  - brucethemoose.OptimizationMeats
+  - fluffy.pharmacist
+  - neronix17.embrasures
+  - historic.IndustrialRollers
+  - spdskatr.projectrimfactory
+  - Community.Psychology.UnofficialUpdate
+  - SGC.quests
+  - kongmd.qee
+  - twistedpacifist.ReasonableComponents
+  - ReGrowth.BOTR.ExtinctAnimalsPack
+  - ReGrowth.BOTR.TemperateForestExpansion
+  - ReGrowth.BOTR.TundraExpansion
+  - ReGrowth.BOTR.Core.VPDP
+  - ReGrowth.BOTR.BorealForestExpansion
+  - Dubwise.Rimatomics
+  - roolo.RunAndGun
+  - Riddle78.Sealed.Power.Armour
+  - PeteTimesSix.SimpleSidearms
+  - neceros.simpleturrets
+  - weilbyte.snapout
+  - marvinkosh.sometimesraidsgowrong
+  - automatic.startupimpact
+  - VanillaExpanded.VPlantsE
+  - AveryTheKitty.TillableTerrains
+  - Grimm.Unlimited
+  - nephlite.orbitaltradecolumn
+  - VanillaExpanded.VAEEndAndExt
+  - VanillaExpanded.VARME
+  - VanillaExpanded.VEE
+  - VanillaExpanded.VCEFAddon
+  - VanillaExpanded.VFEMedical
+  - VanillaExpanded.VFEPower
+  - VanillaExpanded.VFEProduction
+  - VanillaExpanded.VanillaSocialInteractionsExpanded
+  - VanillaExpanded.VanillaTraitsExpanded
+  - VanillaExpanded.VWENL
+  - dismarzero.VGP.VGPGardenMedicine
+  - dismarzero.VGP.VGPGardenResources
+  - Chowdurr.CryogenicGenerator
+  - GWEN.mod11
+  - com.prostheticnomissingbodyparts.rimworld.mod
+  - Revolus.WhatsMissing
+  - cattleya.animatreereskin
+  - Forsakenabyss323.AnimaHTreeHScream
+  - nkuznia.BuildNearAnimaTrees
+  - TWreks.ImmortalSerum
+  - Albion.SparklingWorlds.Addon.MechSerum
+  - Lunardt.Thrumbo.Horn.Melee.Weapons
+  - sumghai.medpod
+  - fluffy.followme
+  - Murmur.ISiD
+  - calltradeships.kv.rw
+  - smashphil.carrycapacityfixed
+  - FLASHPOINT55.RPGStyleLevelUpMod
+  - Roolo.DualWield
+  - com.yayo.combat3
+  - Jaxe.FoodRestrictions
+  - fluffy.animaltab
+  - Oblitus.AnimalsLogic
+  - sarg.magicalmenagerie
+  - VSE.EmpressEvil
+  - Gewen.AdditionalTraits
+  - Sandy.RPGStyleInventory
+  - LegendaryMinuteman.AgeRMechSerum
+  - CaptainMuscles.Callouts
+  - HC.AnimalReskins.Complete
+  - InsertKey.ItemListSelector
+  - MattTheWaz.WeaponsTab
+  - Atlas.AndroidTiers
+  - CP.Rimdeed
+  - goudaquiche.CrystalRace
+  - GloomyLynx.DragonianRace
+  - ApertureStaff.DragonianRaceFactions
+  - tarojun.thrumboianrace
+  - rimsenal.storyteller
+  - Mlie.StarWarsTheForce
+  - FoggyMorning.StarWarsRaces
+  - VanillaExpanded.VCookE
+  - Argon.SaltedMeat
+  - GT.Sam.TilledSoil
+  - zyxabacab.NoSympathyForPrisoners
+  - Torann.ARimworldOfMagic
+  - Kure.AROM
+  - VSE.IgorInvader
+  - Proxyer.DESurgeries.DESurgeries
+  - JM.betterTraders
+  - tradingspot.kv.rw
+  - DoctorVanGogh.MiningShaft
+  - WexMan.Mines
+  - Rikiki.MiningCo.Spaceship
+  - VanillaExpanded.VFESpacer
+  - Owlchemist.UndergroundPowerConduits
+Vanilla Expanded - Settings loaded
+Exception registering Verse.ThingWithComps Steel1708997 in loaded object directory with unique load ID Thing_Steel1708997: System.ArgumentException: An item with the same key has already been added. Key: Thing_Steel1708997
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering Verse.ThingWithComps Plasteel1708625 in loaded object directory with unique load ID Thing_Plasteel1708625: System.ArgumentException: An item with the same key has already been added. Key: Thing_Plasteel1708625
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering Verse.ThingWithComps Plasteel1708859 in loaded object directory with unique load ID Thing_Plasteel1708859: System.ArgumentException: An item with the same key has already been added. Key: Thing_Plasteel1708859
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering Verse.ThingWithComps Plasteel1708998 in loaded object directory with unique load ID Thing_Plasteel1708998: System.ArgumentException: An item with the same key has already been added. Key: Thing_Plasteel1708998
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception registering Verse.ThingWithComps ComponentSpacer1708999 in loaded object directory with unique load ID Thing_ComponentSpacer1708999: System.ArgumentException: An item with the same key has already been added. Key: Thing_ComponentSpacer1708999
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at Verse.LoadedObjectDirectory.RegisterLoaded (Verse.ILoadReferenceable reffable) [0x000be] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Lord_163 of type Verse.AI.Group.Lord. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=VanillaStorytellersExpanded.RaidGroup curPathRelToParent=/lords
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Could not resolve reference to object with loadID Thing_Human1535591 of type Verse.Pawn. Was it compressed away, destroyed, had no ID number, or not saved/loaded right? curParent=(DynamicSocial, moodPowerFactor=1, age=178650) curPathRelToParent=
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb Verse.Verb_Shoot/CompEquippable_TM_RifleSpec_Base18659_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_MeleeAttackDamage/CompEquippable_TM_RifleSpec_Base18659_0_Smash; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb Verse.Verb_Shoot/CompEquippable_TM_PistolSpec_Base146460_0; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Replaced verb RimWorld.Verb_MeleeAttackDamage/CompEquippable_TM_PistolSpec_Base146460_0_Smash; may have been changed through a version update or a mod change
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+OrbitalVisitor weight of 1 has been applied.
+Dia had a bugged melee verb after loading.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Mairekk had a bugged melee verb after loading.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking priority 0
+Got 0 things to spawn
+Done spawning
+Falling back to default spawn
+Trying to get valid region at (135, 0, 84) but RegionAndRoomUpdater is disabled. The result may be incorrect.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Trying to get valid region at (135, 0, 84) but RegionAndRoomUpdater is disabled. The result may be incorrect.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Trying to get valid region at (134, 0, 84) but RegionAndRoomUpdater is disabled. The result may be incorrect.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Trying to get valid region at (135, 0, 84) but RegionAndRoomUpdater is disabled. The result may be incorrect.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Trying to get valid region at (135, 0, 84) but RegionAndRoomUpdater is disabled. The result may be incorrect.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Trying to get valid region at (135, 0, 84) but RegionAndRoomUpdater is disabled. The result may be incorrect.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Trying to get valid region at (136, 0, 84) but RegionAndRoomUpdater is disabled. The result may be incorrect.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Trying to get valid region at (135, 0, 84) but RegionAndRoomUpdater is disabled. The result may be incorrect.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Trying to get valid region at (138, 0, 84) but RegionAndRoomUpdater is disabled. The result may be incorrect.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Trying to get valid region at (136, 0, 84) but RegionAndRoomUpdater is disabled. The result may be incorrect.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+QualityBuilder added to orders category.
+Cleaned up 399 deprecated records from Giddy-up!
+OrbitalVisitor weight of 1 has been applied.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 33623.
+Total: 1171.480300 ms (FindLiveObjects: 15.617700 ms CreateObjectMapping: 4.564900 ms MarkObjects: 1150.918500 ms  DeleteObjects: 0.378600 ms)
+
+Faction leader for Witshothiler is null.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Faction leader for Cain is null.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Faction leader for Mono Model Recovery is null.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wrote screenshot C:/Users/tymon/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios\RimSaves\Previews\default#§#Esnebininum.jpg of size 189705
+Event.Use() should not be called for events of type Layout
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Exception ticking Peter (at (134, 0, 85)). Suppressing further errors. Exception: System.ArgumentException: An item with the same key has already been added. Key: TM_HediffGearRepair
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) [0x000c1] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) [0x00000] in <567df3e0919241ba98db88bec4c6696f>:0 
+  at TorannMagic.MightData.GetHediffAbility (Verse.Hediff hd) [0x0007c] in <a77e74ee63904b4bb8685fe1224b505d>:0 
+  at TorannMagic.CompAbilityUserMight.ResolveSustainedSkills () [0x0051a] in <a77e74ee63904b4bb8685fe1224b505d>:0 
+  at TorannMagic.CompAbilityUserMight.CompTick () [0x0009d] in <a77e74ee63904b4bb8685fe1224b505d>:0 
+  at Verse.ThingWithComps.Tick () [0x00024] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+  at (wrapper dynamic-method) Verse.Pawn.Verse.Pawn.Tick_Patch3(Verse.Pawn)
+  at Verse.TickList.Tick () [0x0015c] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.MissingMethodException: bool Verse.HediffGiverUtility.TryApply(Verse.Pawn,Verse.HediffDef,System.Collections.Generic.List`1<Verse.BodyPartDef>,bool,int,System.Collections.Generic.List`1<Verse.Hediff>)
+  at RimWorld.Planet.WorldComponentUtility.WorldComponentTick (RimWorld.Planet.World world) [0x00013] in <c36f9493c9844ddaa7fb5c788416098f>:0 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+System.NullReferenceException: Object reference not set to an instance of an object
+  at VanillaWeaponsExpandedLaser.CompLaserCapacitor+<CompGetGizmosExtra>d__15.MoveNext () [0x0007e] in <549f7de3dbac48a9b687a698f8637aaa>:0 
+  at VanillaWeaponsExpandedLaser.HarmonyPatches.VWEL_Pawn_GetGizmos_WeaponGizmoGetter_Patch+<GizmoGetter>d__1.MoveNext () [0x0006e] in <549f7de3dbac48a9b687a698f8637aaa>:0 
+  at System.Linq.Enumerable.Count[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x00052] in <351e49e2a5bf4fd6beabb458ce2255f3>:0 
+  at VanillaWeaponsExpandedLaser.HarmonyPatches.VWEL_Pawn_GetGizmos_WeaponGizmoGetter_Patch.GetGizmos_PostFix (Verse.Pawn __instance, System.Collections.Generic.IEnumerable`1[Verse.Gizmo]& __result) [0x0003b] in <549f7de3dbac48a9b687a698f8637aaa>:0 
+  at (wrapper dynamic-method) Verse.Pawn.Verse.Pawn.GetGizmos_Patch17(Verse.Pawn)
+  at (wrapper dynamic-method) RimWorld.InspectGizmoGrid.RimWorld.InspectGizmoGrid.DrawInspectGizmoGridFor_Patch0(System.Collections.Generic.IEnumerable`1<object>,Verse.Gizmo&)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 299c -> priority: 1 
+  Thread -> id: 3550 -> priority: 1 
+  Thread -> id: 4798 -> priority: 1 
+  Thread -> id: 46c8 -> priority: 1 
